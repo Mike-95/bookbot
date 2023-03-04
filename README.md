@@ -1,4 +1,3 @@
 # bookbot
-My first Python repository
 
-I love build AI & ML projects
+BookBot is my first git project!
